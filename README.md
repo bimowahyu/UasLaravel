@@ -3,4 +3,6 @@
 -cp .env.example .env<br>
 -php artisan key:generate<br>
 -buat database sesuai dengan file .env<br>
--php artisan migrate
+-php artisan migrate<br>
+-npm run dev<br>
+-php artisan serve
