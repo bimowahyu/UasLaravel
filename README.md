@@ -6,5 +6,9 @@
 -php artisan migrate<br>
 -npm run dev<br>
 -php artisan serve<br>
--setting key midtrans sesuai dashboard sandbox<br>
+-setting key midtrans pada file. env,sesuai dashboard sandbox<br>
 -tambahkan url notifikasi ngrok<br>
+-jalankan php artisan serve pada terminal vscode dan ngrok http 8000 pada terminal ngrok<br>
+-copy url ngrok yg https://example.ngrok.free.app
+<br>
+-tambahkan /pesanan/baru pada url ngrok tadi
