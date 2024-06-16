@@ -1,0 +1,34 @@
+###
+# post http://127.0.0.1:8080/api/payments/midtrans-notification   
+
+
+# https://18b1-103-213-128-246.ngrok-free.app/api/payments/midtrans-notification
+###
+
+POST https://9f6b-36-73-142-121.ngrok-free.app/api/payments/midtrans-notification   
+Content-Type: application/json
+Accept: application/json
+
+{
+    "va_numbers": [
+        {
+            "va_number": "24023639088",
+            "bank": "bca"
+        }
+    ],
+    "transaction_time": "2023-12-05 05:53:20",
+    "transaction_status": "settlement",
+    "transaction_id": "bf0a9c0e-f2f8-4aef-9fe8-f01a0e175b44",
+    "status_message": "midtrans payment notification",
+    "status_code": "200",
+    "signature_key": "930fd96a64f89a922ec74ede65fe38f9a41f352ad40a2e9cad5e50d5f0614f58019dd1a9baea64f7b39c2d874136315113ee84209b929cd5bdd3f003f6f7a06d",
+    "settlement_time": "2023-12-05 05:53:30",
+    "payment_type": "bank_transfer",
+    "payment_amounts": [],
+    "order_id": "24",
+    "merchant_id": "G422524023",
+    "gross_amount": "65000.00",
+    "fraud_status": "accept",
+    "expiry_time": "2023-12-06 05:53:18",
+    "currency": "IDR"
+}
