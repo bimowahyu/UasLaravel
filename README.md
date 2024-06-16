@@ -9,6 +9,8 @@
 -setting key midtrans pada file. env,sesuai dashboard sandbox<br>
 -tambahkan url notifikasi ngrok<br>
 -jalankan php artisan serve pada terminal vscode dan ngrok http 8000 pada terminal ngrok<br>
--copy url ngrok yg https://example.ngrok.free.app
+-copy url ngrok yg https://346e-103-18-35-99.ngrok-free.app/ url tersebut sebagai contoh
 <br>
--tambahkan /pesanan/baru pada url ngrok tadi
+-tambahkan /pesanan/baru pada url ngrok tadi<br>
+-buat pesanan,lakukan pembayaran pada midtrans payment simulator<br>
+-ketika berhasil status pesanan pada database akan menjadi terbayar
