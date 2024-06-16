@@ -12,5 +12,5 @@
 -copy url ngrok yg https://346e-103-18-35-99.ngrok-free.app/ url tersebut sebagai contoh
 <br>
 -tambahkan /pesanan/baru pada url ngrok tadi<br>
--buat pesanan,lakukan pembayaran pada midtrans payment simulator<br>
+-buat pesanan,lakukan pembayaran pada https://simulator.sandbox.midtrans.com<br>
 -ketika berhasil status pesanan pada database akan menjadi terbayar
