@@ -5,4 +5,6 @@
 -buat database sesuai dengan file .env<br>
 -php artisan migrate<br>
 -npm run dev<br>
--php artisan serve
+-php artisan serve<br>
+-setting key midtrans sesuai dashboard sandbox<br>
+-tambahkan url notifikasi ngrok<br>
