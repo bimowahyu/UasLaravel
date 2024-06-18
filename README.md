@@ -11,6 +11,6 @@
 -copy url ngrok yg https://346e-103-18-35-99.ngrok-free.app/ url tersebut sebagai contoh
 <br>
 -tambahkan url notifikasi ngrok di dalam dashboard midtrans sebagai contoh berikut https://346e-103-18-35-99.ngrok-free.app/payments/midtrans-notification untuk url ngrok bisa di ubah sesuai url server saat di jalankan<br>
--tambahkan https://346e-103-18-35-99.ngrok-free.app/pesanan/baru pada url ngrok tadi<br>
+-tambahkan https://346e-103-18-35-99.ngrok-free.app/pesanan/baru pada url ngrok saat di jalankan dalam browser<br>
 -buat pesanan,lakukan pembayaran pada https://simulator.sandbox.midtrans.com<br>
 -ketika berhasil status pesanan pada database akan menjadi terbayar
